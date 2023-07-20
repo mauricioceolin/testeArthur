@@ -27,14 +27,19 @@ Adicione a validação de idade para casos de usuários menores de 18 anos no ar
 ## Dicas Quentes:
 
 - Use algoritmos de hash seguros, tipo bcrypt, para guardar as senhas. Segurança em primeiro lugar! 🔒
-- Verifique se todos os arquivos (index.php, forgot_password.php, script.js, styles.css e cadastro.php) estão na mesma pasta.
-- Ah, não esqueça de informar a data e hora de quando começou o desafio e quando finalizou, tá?
+- Verifique se todos os arquivos (index.php, esqueci_a_senha.php, script.js, styles.css e cadastro.php) estão na mesma pasta.
+- Ah, não esqueça de informar a data e hora de quando começou o desafio e quando finalizou, beleza? 
 
 ## Relaxa e divirta-se! 🎉
 O importante é codar com qualidade e ser criativo! Caso tenha alguma dúvida, pode chamar a gente. Boa sorte! 🚀
 
-## Data de início do desafio: [INSERIR DATA E HORA DE INÍCIO AQUI]
+## Data de início do desafio: 
+[INSIRA A DATA E HORA DE INÍCIO AQUI]
 
-## Data de conclusão do desafio: [INSERIR DATA E HORA DE CONCLUSÃO AQUI]
+## Data de conclusão do desafio: 
+[INSIRA A DATA E HORA DE CONCLUSÃO AQUI]
+
+## Total de horas utilizadas para a conclusão:
+[INSIRA A QUANTIDADE DE HORAS AQUI]
 
 Enjoy Coding! 😄👍
