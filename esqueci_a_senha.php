@@ -6,7 +6,7 @@
 <body>
     <div class="forgot-password-container">
         <h2>Recuperar Senha</h2>
-        <form action="reset_password.php" method="post">
+        <form action="resetar_senha.php" method="post">
             <label for="email">E-mail:</label>
             <input type="email" name="email" id="email" required>
 

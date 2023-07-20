@@ -16,7 +16,7 @@
 
             <input type="submit" value="Entrar">
         </form>
-        <a href="forgot_password.php">Esqueci minha senha</a>
+        <a href="esqueci_a_senha.php">Esqueci minha senha</a>
     </div>
 
     <script src="script.js"></script>
