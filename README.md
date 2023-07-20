@@ -8,12 +8,12 @@ Dê uma olhada no código PHP, HTML, CSS e JavaScript que fornecemos e tente res
 
 1. Página de Login:
 
-Faça a validação da senha usando algum algoritmo de hash seguro (p. ex. bcrypt) no arquivo "login.php".
-Arrume o link para a página de recuperação de senha (forgot_password.php) para que ele seja exibido direitinho.
+Faça a validação da senha usando algum algoritmo de hash seguro (ex. bcrypt) no arquivo "login.php".
+Arrume o link para a página de recuperação de senha (esqueci_a_senha.php) para que ele seja exibido direitinho.
 
 2. Página de Recuperação de Senha:
 
-Implemente o envio do e-mail com a nova senha no arquivo "reset_password.php".
+Implemente o envio do e-mail com a nova senha no arquivo "resetar_senha.php".
 
 3. Menu Lateral Responsivo:
 
