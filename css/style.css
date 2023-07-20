@@ -1,0 +1,40 @@
+/* Estilos para a página de login */
+.login-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para a página de recuperação de senha */
+.forgot-password-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para o menu lateral e superior */
+.menu {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-item {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Estilos para o menu lateral em dispositivos desktop */
+@media (min-width: 768px) {
+    .menu {
+        flex-direction: row;
+    }
+
+    .menu-item {
+        border-right: 1px solid #ccc;
+    }
+}
