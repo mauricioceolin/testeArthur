@@ -5,15 +5,16 @@
 <html>
 <head>
     <title>Esqueci minha senha</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <div class="forgot-password-container">
+    <div class="forgot-password-container center">
         <h2>Recuperar Senha</h2>
         <form action="resetar_senha.php" method="post">
             <label for="email">E-mail:</label>
             <input type="email" name="email" id="email" required>
-
-            <input type="submit" value="Enviar">
+            <button type="submit" value="Entrar">Entrar</button>
         </form>
     </div>
 </body>
